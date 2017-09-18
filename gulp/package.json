@@ -1,0 +1,22 @@
+{
+  "name": "excercises",
+  "version": "1.0.0",
+  "description": "excercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisVuitton/exercises-2017-autumn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisVuitton/exercises-2017-autumn/issues"
+  },
+  "homepage": "https://github.com/LuisVuitton/exercises-2017-autumn#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
